@@ -19,3 +19,8 @@ vim ~/etc/nginx/nginx.config
 - Configuring caching to improve load times by storing static files.
 - Configuring SSL/TLS certificates for HTTPS, securing the site.
 - Changing location of log files
+
+# Location of sites-enabled file
+- change port number on which nginx is listening
+- change root directoty (var/www/html)
+- 
