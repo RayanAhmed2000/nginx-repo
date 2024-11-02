@@ -12,7 +12,7 @@ vim cafe.codersgyan.com.conf
 server {
   listen 80 default_server;   # PORT 80 WILL BE DEFAULT
   root /var/www/cafe;         # PATH OF PAGE FILE
-  server_name _;
+  server_name _;              # KIS DOMAIN SE REQUEST AAYEGI / AGAR DOMAIN NAME PURCHASE NAHI KIA THEN LEAVE _
   index index.html;           # FILE NAME(S) IN THE ROOT 
 
   location / {
