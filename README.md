@@ -15,3 +15,7 @@ nginx: configuration file /etc/nginx/nginx.conf test is successful
 ```
 sudo systemctl reload nginx
 ```
+# Nginx Files/directories
+- nginx.conf 
+- sites-available
+- conf.d
