@@ -1,4 +1,4 @@
-# Nginx.config
+# nginx.conf
 
 ## basic setitngs
 - worker_processes - It defines no of worker processes nginx will run (recommeded to set equal to the number cores of CPU your machine has or set to auto)
